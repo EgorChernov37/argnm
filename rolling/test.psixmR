@@ -1,0 +1,4 @@
+("This module is rolling, don't try to get out of it what is impossible!")
+func roll
+install("../../../proplus6/roll/archive/refs/tags/rolling.tar.gz")
+end
